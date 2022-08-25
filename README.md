@@ -5,7 +5,7 @@
 ## Why
 Developed as a requirement for the **computação distribuída (distributed computing)** subject during my 6th semester of Computer Science.
 
-## Tools
+## Tools used
 - [python]
 - [nginx]
 - [azure]
